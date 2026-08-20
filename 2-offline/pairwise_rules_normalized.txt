@@ -1,0 +1,160 @@
+Dish: BBQ ribs
+Wine: Shiraz
+Reason: Its bold fruit complements sweet and smoky BBQ sauce.
+
+Dish: beef carpaccio
+Wine: Nebbiolo
+Reason: Its acidity complements raw beef and parmesan.
+
+Dish: beef stew
+Wine: Malbec
+Reason: Its dark fruit and body complement slow-cooked beef.
+
+Dish: burrito
+Wine: Tempranillo
+Reason: Its structure matches beans, meat, and spices.
+
+Dish: Caesar salad
+Wine: Vermentino
+Reason: Its crispness cuts through creamy dressing.
+
+Dish: carbonara
+Wine: Soave
+Reason: Its acidity balances the creamy sauce.
+
+Dish: charcuterie
+Wine: Gamay
+Reason: Its light body pairs well with cured meats.
+
+Dish: cheeseburger
+Wine: Merlot
+Reason: Its soft tannins pair well with beef and cheese.
+
+Dish: duck breast
+Wine: Pinot Noir
+Reason: Its acidity and red fruit complement rich duck meat.
+
+Dish: falafel
+Wine: Grenache
+Reason: Its red fruit complements herbs and chickpeas.
+
+Dish: fish tacos
+Wine: Albarino
+Reason: Its brightness complements lime and cilantro.
+
+Dish: fried chicken
+Wine: Cava
+Reason: Its bubbles cut through crispy, fatty textures.
+
+Dish: fried rice
+Wine: Pinot Blanc
+Reason: Its subtle fruit complements savory rice.
+
+Dish: gnocchi
+Wine: Dolcetto
+Reason: Its fruitiness complements soft, rich dumplings.
+
+Dish: grilled octopus
+Wine: Assyrtiko
+Reason: Its minerality matches smoky seafood.
+
+Dish: grilled salmon
+Wine: Pinot Noir
+Reason: Its light tannins and red fruit notes complement oily fish.
+
+Dish: grilled shrimp
+Wine: Verdejo
+Reason: Its citrus notes match grilled seafood.
+
+Dish: grilled vegetables
+Wine: Beaujolais
+Reason: Its light body pairs well with smoky vegetable flavors.
+
+Dish: lamb chops
+Wine: Syrah
+Reason: Its spice and structure match the bold flavor of lamb.
+
+Dish: lobster
+Wine: Champagne
+Reason: Its acidity and bubbles cut through the richness of lobster.
+
+Dish: margherita pizza
+Wine: Chianti
+Reason: Its acidity matches tomato sauce and enhances fresh basil.
+
+Dish: mushroom risotto
+Wine: Barbera
+Reason: Its acidity balances the earthy richness of mushrooms.
+
+Dish: NY steak
+Wine: Cabernet Sauvignon
+Reason: Its tannins match the richness and fat content of the steak.
+
+Dish: oysters
+Wine: Muscadet
+Reason: Its minerality matches the briny flavor of oysters.
+
+Dish: pad thai
+Wine: off-dry Riesling
+Reason: Its sweetness balances tamarind and chili heat.
+
+Dish: paella
+Wine: Albarino
+Reason: Its freshness complements seafood and saffron.
+
+Dish: pho
+Wine: Pinot Gris
+Reason: Its aromatics complement the broth's spices.
+
+Dish: poke bowl
+Wine: Riesling
+Reason: Its acidity enhances raw fish and sweet sauces.
+
+Dish: pork chops
+Wine: Zinfandel
+Reason: Its fruitiness complements the savory flavor of pork.
+
+Dish: pork ramen
+Wine: Riesling
+Reason: Its acidity balances fatty broth.
+
+Dish: ramen
+Wine: Chenin Blanc
+Reason: Its acidity complements savory broth and noodles.
+
+Dish: risotto primavera
+Wine: Verdicchio
+Reason: Its freshness matches spring vegetables.
+
+Dish: roast chicken
+Wine: Chardonnay
+Reason: Its body and subtle oak pair well with roasted poultry.
+
+Dish: sashimi
+Wine: Gruner Veltliner
+Reason: Its minerality enhances clean, raw fish flavors.
+
+Dish: shrimp scampi
+Wine: Sauvignon Blanc
+Reason: Its citrus notes match garlic and lemon flavors.
+
+Dish: spicy curry
+Wine: Gewurztraminer
+Reason: Its sweetness balances the heat and spices of the curry.
+
+Dish: steak tartare
+Wine: Cabernet Franc
+Reason: Its acidity complements raw beef and herbs.
+
+Dish: sushi
+Wine: dry Riesling
+Reason: Its acidity complements the delicate flavors and umami of sushi.
+
+Dish: tuna steak
+Wine: Rose
+Reason: Its freshness complements the meaty texture of tuna.
+
+Dish: vegetable curry
+Wine: Viognier
+Reason: Its floral notes complement spices and coconut milk.
+
